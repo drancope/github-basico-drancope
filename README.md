@@ -1,16 +1,17 @@
-# :wave: The Basics of GitHub 
+# :wave: GitHub: introducción
 
-## 🤓 Course overview and learning outcomes 
+## 🤓 Idea general de este curso y aprendizaje que se obtendrá
 
-The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
+ 🚀
+El objetivo de este curso es darte una introducción sencilla a GitHub. También se te proporcionan recursos para continuar elmaprendizaje y unas pocas ideas para empezar a manejar esta plataforma.
 
-## :octocat: Git and GitHub
+## :octocat: Git y GitHub
 
-Git is a **distributed Version Control System (VCS)**, which means it is a useful tool for easily tracking changes to your code, collaborating, and sharing. With Git you can track the changes you make to your project so you always have a record of what you’ve worked on and can easily revert back to an older version if need be. It also makes working with others easier—groups of people can work together on the same project and merge their changes into one final source!
+Git es un **Sistema distribuido de Control de Versiones**, en inglés **distributed Version Control System (VCS)**, lo que significa que se usa para llevar control de los cambios que se van haciendo en tus programas, para hacerlo colaborativamente, y para compartir el código. Con Git puedes hacer seguimiento de los cambios que se hacen en un proyecto, de manera que siempre tenemos registrode en qué hemos trabajado, y se pueden deshacer estos cambios fácilmente, volviendo a una versión anterior si es necesario. También facilita trabajar con los demás. Grupos de colaboradores pueden trabajar juntos en el mismo proyecto y unir sus cambios en la versión final.
 
-GitHub is a way to use the same power of Git all online with an easy-to-use interface. It’s used across the software world and beyond to collaborate and maintain the history of projects.
+GitHub es una herramienta que proporciona la misma capacidad de Git, pero desde una web online, para que sea más fácil de usar. Se usa extensamente en todo el mundo, entre desarrolladores de software, para participar en proyectos y para conservar una copia "historica" de los mismos.
 
-GitHub is home to some of the most advanced technologies in the world. Whether you're visualizing data or building a new game, there's a whole community and set of tools on GitHub that can get you to the next step. This course starts with the basics of GitHub, but we'll dig into the rest later.
+GitHub es el lugar donde se alojan algunas de las tecnologías más avanzadas del mundo. Ya sea que estés visualizando datos o creando un nuevo juego, habrá una comunidad y un conjunto de herramientas en GitHub que te pueden ayudar a avanzar en tu tarea. Este curso comienza con los aspectos básicos de GitHub, pero se profundizará más tarde en lo demás.
 
 ## :octocat: Understanding the GitHub flow 
 
