@@ -13,18 +13,19 @@ GitHub es una herramienta que proporciona la misma capacidad de Git, pero desde 
 
 GitHub es el lugar donde se alojan algunas de las tecnologías más avanzadas del mundo. Ya sea que estés visualizando datos o creando un nuevo juego, habrá una comunidad y un conjunto de herramientas en GitHub que te pueden ayudar a avanzar en tu tarea. Este curso comienza con los aspectos básicos de GitHub, pero se profundizará más tarde en lo demás.
 
-## :octocat: Understanding the GitHub flow 
+## :octocat: El flujo de trabajo de GitHub
 
-The GitHub flow is a lightweight workflow that allows you to experiment and collaborate on your projects easily, without the risk of losing your previous work.
+El flujo de trabajo de GitHub es sencillo, y permite experimentar con los cambios y realizar colaboraciones con facilidad, sin riesgo de perder el trabajo previo.
 
-### Repositories
+### Repositorios
 
-A repository is where your project work happens--think of it as your project folder. It contains all of your project’s files and revision history.  You can work within a repository alone or invite others to collaborate with you on those files.
+Un repositorio es el sitio que almacena un proyecto. Se puede pensar en él como si fuera el armario o el archivador de ese proyecto, la carpeta de ese proyecto. Contiene totos los archivos del proyecto y el historial de cambios. Se puede trabajar en un repositorio siendo una sola persona, o invitar a otros a colaborar para que modifiquen esos archivos.
 
-### Cloning 
+### Clonar
 
 When a repository is created with GitHub, it’s stored remotely in the ☁️. You can clone a repository to create a local copy on your computer and then use Git to sync the two. This makes it easier to fix issues, add or remove files, and push larger commits. You can also use the editing tool of your choice as opposed to the GitHub UI. Cloning a repository also pulls down all the repository data that GitHub has at that point in time, including all versions of every file and folder for the project! This can be helpful if you experiment with your project and then realize you liked a previous version more. 
-To learn more about cloning, read ["Cloning a Repository"](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository). 
+To learn more about cloning, read ["Cloning a Repository"](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
+Cuando se crea un repositorio con GitHub, el almacenamiento está en la nube ☁️. Puedes clonar ese repositorio para crear una copia local en tu ordenador, y después usar **git** para sincronizarlos. Así es más fácil reparar los errores, y añadir o borrar archivos, o hacer cambios múltiples de golpe. Además, también se puede usar la herramienta de edición que prefieras, al contrario que si editas desde la web de GitHub.
 
 ### Committing and pushing
 **Committing** and **pushing** are how you can add the changes you made on your local machine to the remote repository in GitHub. That way your instructor and/or teammates can see your latest work when you’re ready to share it. You can make a commit when you have made changes to your project that you want to “checkpoint.” You can also add a helpful **commit message** to remind yourself or your teammates what work you did (e.g. “Added a README with information about our project”).
