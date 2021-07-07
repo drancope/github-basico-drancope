@@ -31,17 +31,17 @@ Para aprender más sobre el clonado, leer ["Cloning a Repository"](https://docs.
 
 Cuando ya hemos acumulado varios commit (o solo uno si no hacen falta más), se debe usar la instrucción **push** para guardar esos cambios en el repositorio de GitHub. Estas dos instrucciones pueden parecer raros al principio, pero os vais a acostumbrar muy pronto. 🙂
 
-## 💻 GitHub terms to know 
+## 💻 vocabulario GitHub imprescindible
 
-### Repositories 
-We mentioned repositories already, they are where your project work happens, but let’s talk a bit more about the details of them! As you work more on GitHub you will have many repositories which may feel confusing at first. Fortunately, your ["GitHub dashboard"](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/about-your-personal-dashboard) helps to easily navigate to your repositories and see useful information about them. Make sure you’re logged in to see it!
+### Repositorio
+Como se ha dicho antes, es donde se almacena el proyecto -archivos y carpetas, y también llevala cuenta de los cambios hechos-. Veámoslo en más detalle. Conforme vamos trabajando en GitHub cada vez tendremos más repositorios, y eso es confuso al principio. Afortunadamente, tu ["Escritorio GitHub"](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/about-your-personal-dashboard) permite navegar fácilmente por tus repositorios y ver la información necesaria sobre cada uno. ¡Asegúrate de estar identificado para poder verlo!
 
-Repositories also contain **README**s. You can add a README file to your repository to tell other people why your project is useful, what they can do with your project, and how they can use it. We are using this README to communicate how to learn Git and GitHub with you. 😄 
-To learn more about repositories read ["Creating, Cloning, and Archiving Repositories](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories) and ["About README's"](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes). 
+Los repositorios suelen contener archivos **README**. Sirven para dejar escrita la explicación básica del proyecto, para que la gente que entra sepa para qué sirve este proyecto, qué pueden hacer con él, y cómo se manejan sus archivos. Esto que estás leyendo ahora es un archivo README. 😄 
+Para aprender más acerca de los repositorios, leed ["Creating, Cloning, and Archiving Repositories](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories) y ["About README's"](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes). 
 
-### Branches
-You can use branches on GitHub to isolate work that you do not want merged into your final project just yet. Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository. Typically, you might create a new branch from the default branch of your repository—main. This makes a new working copy of your repository for you to experiment with. Once your new changes have been reviewed by a teammate, or you are satisfied with them, you can merge your changes into the default branch of your repository.
-To learn more about branching, read ["About Branches"](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches).
+### Ramas ("Branches")
+Las ramas guardan de manera separada los cambios que no queremos mezclar todavía en el proyecto final. cada "branch" te permite probar características nuevas en las que todavía no hemos combrobado el funcionamiento, corregir errores anteriores, o experimentar de manera segura con nuevas ideas en un área separada que no afecte a lo que ya funciona. De manera normal, uno debe crear una rama nueva desde la rama principal del repositorio para empezar a trabajar con cualquier retoque. En esa rama creamos los cambios.A continuación hacemos un "commit" y "push", para compartir esa nueva rama con un compañero para que la compruebe si funciona, nos dé sugerencias, y después, si se considera adecuado, mezclarla con la rama principal y borrar (o no) la que habíamos creado.
+Para aprender más sobre ramas, leed ["About Branches"](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches).
 
 ### Forks
 A fork is another way to copy a repository, but is usually used when you want to contribute to someone else’s project. Forking a repository allows you to freely experiment with changes without affecting the original project and is very popular when contributing to open source software projects!
