@@ -43,42 +43,39 @@ Para aprender más acerca de los repositorios, leed ["Creating, Cloning, and Arc
 Las ramas guardan de manera separada los cambios que no queremos mezclar todavía en el proyecto final. cada "branch" te permite probar características nuevas en las que todavía no hemos combrobado el funcionamiento, corregir errores anteriores, o experimentar de manera segura con nuevas ideas en un área separada que no afecte a lo que ya funciona. De manera normal, uno debe crear una rama nueva desde la rama principal del repositorio para empezar a trabajar con cualquier retoque. En esa rama creamos los cambios.A continuación hacemos un "commit" y "push", para compartir esa nueva rama con un compañero para que la compruebe si funciona, nos dé sugerencias, y después, si se considera adecuado, mezclarla con la rama principal y borrar (o no) la que habíamos creado.
 Para aprender más sobre ramas, leed ["About Branches"](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches).
 
-### Forks
-A fork is another way to copy a repository, but is usually used when you want to contribute to someone else’s project. Forking a repository allows you to freely experiment with changes without affecting the original project and is very popular when contributing to open source software projects!
-To learn more about forking, read ["Fork a repo"](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
+### Bifurcaciones (Forks)
+Una bifurcación o "fork" es otra manera de copiar un repositorio, pero se usa normalmente cuando uno quiere contribuir al proyecto de otra persona. Al hacer una copia bifurcada, se puede experimentar libremente con cambios sin que afecte en absoluto al proyecto original. De hecho, es una forma de actuar muy extendida.
+Lee ["Fork a repo"](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) para aprender más acerca de fork.
 
-### Pull requests
-When working with branches, you can use a pull request to tell others about the changes you want to make and ask for their feedback. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add more changes if need be. You can add specific people as reviewers of your pull request which shows you want their feedback on your changes! Once a pull request is ready-to-go, it can be merged into your main branch.
-To learn more about pull requests, read ["About Pull Requests"](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests). 
+### Pull requests (peticiones de agregación de cambios)
+Al trabajar con ramas, uno debe usar las peticiones de "pull" para informar a los colaboradores acerca de los cambios que está creando para pedirles su opinión sobre los mismos, antes de sumar estos cambios a la rama en la que estamos trabajando. Una vez que se abre una petición, podemos discutir y revisar los cambios potenciales con nuestro equipo, y si las pruebas o comentarios lo aconsejan, añadir más cambios. Se pueden agregar personas concretas para que revisen nuestro trabajo, solicitud que ellos recibirán y decidirán si aceptar. Una vez que se han revisado estos cambios, podremos mezclarlos con la rama principal del proyecto.
+para aprender más sobre este tema, leed ["About Pull Requests"](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests). 
 
 
-### Issues
-Issues are a way to track enhancements, tasks, or bugs for your work on GitHub. Issues are a great way to keep track of all the tasks you want to work on for your project and let others know what you plan to work on. You can also use issues to tell a favorite open source project about a bug you found or a feature you think would be great to add!
+### Asuntos (Issues)
+Las Issues son un mecanismo para llevar seguimiento de errores, tareas, o ideas de mejoras que hay que trabajar. Son idóneas para registrar y controlar todas las cosas que se tienen que ir haciendo, a la vez que mantienen informados a los demás de los trabajos en marcha o planificados. Se usan también para dar a conocer a los miembros de otros proyectos de que hemos encontrado un error en su proyecto, o para solicitarles una mejora que se nos ha ocurrido.
+En proyectos mas grandes, se puede controlar una gran cantidad de tareas en un panel de proyecto. Un proyecto de GitHub permite organizar y priorizar tareas, tal y como se puede ver leyendo [in this "About Project boards document](https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards). Lo más normal es que no necesitemos un tablero para nuestras tareas las primeras veces, pero una vez que se empieza con proyectos grandes, son muy útiles para organizar el trabajo del equipo.
+Se pueden enlazar juntas las issues y las peticiones de agregación para hacer ver que una mejora del código del programa está en progreso, y que se cierre ese asunto cuando alguien mezcle la petición de cambio con los documentos del repositorio iniciales.
+Para aprender más acerca de esto, leed ["About Issues"](https://docs.github.com/en/github/managing-your-work-on-github/about-issues). 
 
-For larger projects, you can keep track of many issues on a project board. GitHub Projects help you organize and prioritize your work and you can read more about them [in this "About Project boards document](https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards). You likely won’t need a project board for your assignments, but once you move on to even bigger projects, they’re a great way to organize your team’s work!
-You can also link together pull requests and issues to show that a fix is in progress and to automatically close the issue when someone merges the pull request.
-To learn more about issues and linking them to your pull requests, read ["About Issues"](https://docs.github.com/en/github/managing-your-work-on-github/about-issues). 
+### Perfil de usuario
+Tu perfil le cuenta a la gente en qué trabajas y cuáles son tus intereses, mostrando los repositorios que te interesan, las contribuciones que has hecho, o las conversaciones en las que has participado. Puedes personalizar todavía más cómo los demás acceden a esta información gracias a un documento README que puede incluirse en el perfil. Es algo muy recomendable, sobre todo si deseamos abrirnos al mercado laboral
+Para aprender más, y para añadir y mantener actualizado un archivo README de nuestro perfil, leed ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme). 
 
-### Your user profile
-
-Your profile page tells people the story of your work through the repositories you're interested in, the contributions you've made, and the conversations you've had. You can also give the world a unique view into who you are with your profile README. You can use your profile to let future employers know all about you! 
-To learn more about your user profile and adding and updating your profile README, read ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme). 
-
-### Using markdown on GitHub 
-
-You might have noticed already, but you can add some fun styling to your issues, pull requests, and files. ["Markdown"](https://guides.github.com/features/mastering-markdown/) is an easy way to style your issues, pull requests, and files with some simple syntax. This can be helpful to organize your information and make it easier for others to read. You can also drop in gifs and images to help convey your point!
-To learn more about using GitHub’s flavor of markdown, read ["Basic Writing and Formatting Syntax"](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax). 
+### El lenguaje markdown en GitHub 
+Seguramente ya te has dado cuenta de que se puede incluir algo de estilo agradable a las tareas o asuntos, a las peticiones de cambio y, en general, a los documentos. ["Markdown"](https://guides.github.com/features/mastering-markdown/) es la forma fácil de aplicar estilos, ya que su sintáxis es simple. Así la información queda perfectamente expuesta de cara a los lectores. Permite incluso insertar imágenes gif (o normales) que hagan más atractivas y útiles las explicaciones.
+para aprender cómo se usa Markdown en GitHub, leed ["Basic Writing and Formatting Syntax"](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax). 
 
 ### Engaging with the GitHub community
 
 The GitHub community is vast. There are many types of people who use GitHub in their day to day—students like you, professional developers, hobbyists working on open source projects, and explorers who are just jumping into the world of software development on their own. There are many ways you can interact with the larger GitHub community, but here are three places where you can start. 
 
-#### Starring repositories 
+#### Marcar con estrellas algunos repositorios
 
 If you find a repository interesting or you want to keep track of it, star it! When you star a repository it’s also used as a signal to surface better recommendations on github.com/explore. If you’d like to get back to your starred repositories you can do so via your user profile. 
 To learn  more about starring repositories, read ["Saving Repositories with Stars"](https://docs.github.com/en/github/getting-started-with-github/saving-repositories-with-stars). 
 
-#### Following users 
+#### Seguir a usuarios
 
 You can follow people on GitHub to receive notifications about their activity and discover projects in their communities. When you follow a user, their public GitHub activity will show up on your dashboard so you can see all the cool things they are working on. 
 To learn more about following users, read ["Following People"](https://docs.github.com/en/github/getting-started-with-github/following-people).
@@ -89,7 +86,7 @@ GitHub Explore is a great place to do just that … explore :smile: You can find
 
 You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you intereact with GitHub the more tailored your Explore view will be. 
 
-## 📝 Optional next steps 
+## 📝 Proximos pasos opcionales
 
 * Open a pull request and let your teacher know that you’ve finished this course.  
 * Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
@@ -97,7 +94,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them. 
 * [Let us know what you liked or didn’t like about the content of this course](https://support.github.com/contact/education). What would you like to see more of? What would be interesting or helpful to your learning journey? 
 
-## 📚  Resources 
+## 📚  Mas recursos
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
 * [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
 * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
