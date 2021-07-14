@@ -3,11 +3,11 @@
 ## 🤓 Idea general de este curso y aprendizaje que se obtendrá
 
  🚀
-El objetivo de este curso es darte una introducción sencilla a GitHub. También se te proporcionan recursos para continuar elmaprendizaje y unas pocas ideas para empezar a manejar esta plataforma.
+El objetivo de este curso es darte una introducción sencilla a GitHub. También se te proporcionan recursos para continuar el aprendizaje y unas pocas ideas para empezar a manejar esta plataforma.
 
 ## :octocat: Git y GitHub
 
-Git es un **Sistema distribuido de Control de Versiones**, en inglés **distributed Version Control System (VCS)**, lo que significa que se usa para llevar control de los cambios que se van haciendo en tus programas, para hacerlo colaborativamente, y para compartir el código. Con Git puedes hacer seguimiento de los cambios que se hacen en un proyecto, de manera que siempre tenemos registrode en qué hemos trabajado, y se pueden deshacer estos cambios fácilmente, volviendo a una versión anterior si es necesario. También facilita trabajar con los demás. Grupos de colaboradores pueden trabajar juntos en el mismo proyecto y unir sus cambios en la versión final.
+Git es un **Sistema distribuido de Control de Versiones**, en inglés **distributed Version Control System (VCS)**, lo que significa que se usa para llevar control de los cambios que se van haciendo en tus programas, para hacerlo colaborativamente, y para compartir el código. Con Git puedes hacer seguimiento de los cambios que se hacen en un proyecto, de manera que siempre tenemos registro de en qué hemos trabajado, y se pueden deshacer estos cambios fácilmente, volviendo a una versión anterior si es necesario. También facilita trabajar con los demás. Grupos de colaboradores pueden trabajar juntos en el mismo proyecto y unir sus cambios en la versión final.
 
 GitHub es una herramienta que proporciona la misma capacidad de Git, pero desde una web online, para que sea más fácil de usar. Se usa extensamente en todo el mundo, entre desarrolladores de software, para participar en proyectos y para conservar una copia "historica" de los mismos.
 
