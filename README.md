@@ -92,8 +92,8 @@ Compruébalo pinchando en [at github.com/explore](https://github.com/explore). C
 * Abre una petición de pull para indicar a tu profesor que ya has terminado este cursillo de introducción.
 * Crea un archivo markdown nuevo. Cuenta en él qué es lo que has aprendido y qué cosas no están claras todavía. Experimenta con estilos.
 * Crea tu README en tu perfil. Déjanos conocerte un poco. ¿Qué es lo que quieres aprender? ¿En qué trabajas actualmente? ¿Cuál es tu hobby predilecto? Lee el documento ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme) si necesitas ayuda para crear este archivo.
-* Id a vuestro escritorio y creadunrepositorio nuevo. Experimentad con todo lo que tiene unrepositorio, para familiarizaros con su manejo.
-* [Let us know what you liked or didn’t like about the content of this course](https://support.github.com/contact/education). What would you like to see more of? What would be interesting or helpful to your learning journey? 
+* Id a vuestro escritorio y cread un repositorio nuevo. Experimentad con todo lo que tiene un repositorio, para familiarizaros con su manejo.
+* [Let us know what you liked or didn’t like about the content of this course](https://support.github.com/contact/education). ¿Qué más consideras que conviene ampliar?  ¿Qué puede ser interesante para mejorar tu aprendizaje?
 
 ## 📚  Mas recursos
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
