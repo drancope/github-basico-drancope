@@ -99,7 +99,7 @@ Compruébalo pinchando en [at github.com/explore](https://github.com/explore). C
 * [Video corto explicando qué es GitHub](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
 * [Recursos para aprender Git y GitHub](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
 * [Comprender el flujo de trabajo con GitHub](https://guides.github.com/introduction/flow/)
-* [How to use GitHub branches](https://www.youtube.com/watch?v=H5GJfcp3p4Q&feature=youtu.be)
+* [Ramas de repositorios en GitHub: cómo usarlas](https://www.youtube.com/watch?v=H5GJfcp3p4Q&feature=youtu.be)
 * [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
