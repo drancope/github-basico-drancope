@@ -96,9 +96,9 @@ Compruébalo pinchando en [at github.com/explore](https://github.com/explore). C
 * [Let us know what you liked or didn’t like about the content of this course](https://support.github.com/contact/education). ¿Qué más consideras que conviene ampliar?  ¿Qué puede ser interesante para mejorar tu aprendizaje?
 
 ## 📚  Mas recursos
-* [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
-* [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
-* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
+* [Video corto explicando qué es GitHub](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
+* [Recursos para aprender Git y GitHub](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
+* [Comprender el flujo de trabajo con GitHub](https://guides.github.com/introduction/flow/)
 * [How to use GitHub branches](https://www.youtube.com/watch?v=H5GJfcp3p4Q&feature=youtu.be)
 * [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
 * [GitHub's Learning Lab](https://lab.github.com/)
