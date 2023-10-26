@@ -9,7 +9,7 @@ El objetivo de este curso es darte una introducción sencilla a GitHub. También
 
 Git es un **Sistema distribuido de Control de Versiones**, en inglés **distributed Version Control System (VCS)**, lo que significa que se usa para llevar control de los cambios que se van haciendo en tus programas, para hacerlo colaborativamente, y para compartir el código. Con Git puedes hacer seguimiento de los cambios que se hacen en un proyecto, de manera que siempre tenemos registro de en qué hemos trabajado, y se pueden deshacer estos cambios fácilmente, volviendo a una versión anterior si es necesario. También facilita trabajar con los demás. Grupos de colaboradores pueden trabajar juntos en el mismo proyecto y unir sus cambios en la versión final.
 
-GitHub es una herramienta que proporciona la misma capacidad de Git, pero desde una web online, para que sea más fácil de usar. Se usa extensamente en todo el mundo, entre desarrolladores de software, para participar en proyectos y para conservar una copia "historica" de los mismos.
+GitHub es una herramienta que proporciona la misma capacidad de Git, pero desde una web online, para que sea más fácil de usar. Se usa extensamente en todo el mundo, entre desarrolladores de software, para participar en proyectos y para conservar una copia "historica" de los mismos..
 
 GitHub es el lugar donde se alojan algunas de las tecnologías más avanzadas del mundo. Ya sea que estés visualizando datos o creando un nuevo juego, habrá una comunidad y un conjunto de herramientas en GitHub que te pueden ayudar a avanzar en tu tarea. Este curso comienza con los aspectos básicos de GitHub, pero se profundizará más tarde en lo demás.
 
